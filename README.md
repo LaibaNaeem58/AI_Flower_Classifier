@@ -56,9 +56,6 @@ AI-Flower-Classifier/
 4. Get prediction
 5. Show result
 
----
-
- 
 
 ## 📅 Submission Date
 \today
